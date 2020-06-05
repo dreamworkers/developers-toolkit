@@ -13,45 +13,13 @@ My toolkit as a developer, of tools, apps, websites, and services.
 ### For Development
 
 - **Tools**
-  - Abstract Syntax Explorer - <https://astexplorer.net/>
-  - Sequence diagrams: <https://www.websequencediagrams.com/>
-  - Regex: <https://regex101.com/>
-  - Formatters/Encoders:
-    - Formatters/Encoders: <https://www.freeformatter.com/>
-    - SVG encoder: <https://codepen.io/yoksel/pen/JDqvs>
-    - Dirty markup formatter: <https://www.10bestdesign.com/dirtymarkup/>
-  - Code editors:
-    - Markdown editor: <https://dillinger.io/>
-    - SVG editor: <https://jakearchibald.github.io/svgomg/>
-    - JS editor: <http://jsfiddle.net>
-    - Code snippets: <https://pastebin.com/>
-    - Code snippets: <https://gist.github.com/>
-    - Text compare: <https://text-compare.com/>
-    - Diff check: <https://www.diffchecker.com/>
-  - Compatibility
-    - ES Compatible table: <http://kangax.github.io/compat-table/es6/>
-    - Can I email <https://www.caniemail.com>
-    - Can I use <https://caniuse.com/>
-  - Build tools:
-    - Build boilerplate generator: <https://createapp.dev/>
-    - Webpack config generator: <https://generatewebpackconfig.netlify.com/>
-    - NGINX Config: <https://www.digitalocean.com/community/tools/nginx>
-  - CSS:
-    - Autoprefixer: <https://autoprefixer.github.io/>
-    - Specificity Visualizer: <https://isellsoap.github.io/specificity-visualizer/>
-    - Nth child tester: <https://css-tricks.com/examples/nth-child-tester/>
-    - CSS loaders: <https://loading.io/css/>
-    - CSS Spinners: <https://projects.lukehaas.me/css-loaders/>
-    - Code my UI: <https://codemyui.com/>
   - Icons:
     - Free icons: <https://iconmonstr.com/>
-    - Icons, loaders, gifs (library, converters): <https://loading.io/animation/icon/>
     - Icon for brands: <https://simpleicons.org/>
     - Icons for everything: <https://thenounproject.com/>
     - More icons: <https://www.flaticon.com/>
+  - [CSS loaders](https://loading.io/css/) - Pure CSS Loaders
   - Fonts:
-    - @font-face generator: <https://transfonter.org/>
-    - Font converter: <https://onlinefontconverter.com/>
     - The league of movable types: <https://www.theleagueofmoveabletype.com/>
     - Google fonts: <https://fonts.google.com/>
     - Font squirrel: <https://www.fontsquirrel.com/>
@@ -60,10 +28,6 @@ My toolkit as a developer, of tools, apps, websites, and services.
     - Mailinator <https://www.mailinator.com/>
     - 10 mins mail <https://10minutemail.com/>
     - SMS service <https://smsreceivefree.com/>
-  - JSON:
-    - Parser: <http://json.parser.online.fr/>
-    - Editor: <https://jsoneditoronline.org/>
-    - Validator: <https://jsonformatter.curiousconcept.com/>
   - Collaboration:
     - Newsletters: <http://tinyletter.com/>
     - Poll maker: <http://www.poll-maker.com/>
@@ -96,7 +60,6 @@ My toolkit as a developer, of tools, apps, websites, and services.
   - Create a schedule calendar: <https://blokks.co/>
 
 - **Resources**
-  - Popular Gits: <http://kamranahmed.info/githunt/>
   - Alternative to: <https://alternativeto.net/>
   - Design systems and pattern libraries:  <https://adele.uxpin.com/>
   - CSS Triggers: <https://csstriggers.com/>
@@ -148,4 +111,4 @@ My toolkit as a developer, of tools, apps, websites, and services.
   - <https://usefulinterweb.com/>
 
 - **Resources**
-  - <https://awesomejs.dev/>
+  - <https://www.khanacademy.org/>

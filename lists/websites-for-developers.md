@@ -175,12 +175,23 @@ _(Go back to [main list](https://github.com/dreamworkers/developers-toolkit/blob
 - **Lists**
   - [ProgramCreek](https://www.programcreek.com/)
   - [No excuses list](http://noexcuselist.com/)
+  - [Awesome Design Tools](https://github.com/LisaDziuba/Awesome-Design-Tools)
+- **Github**
+  - [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+  - [Clean code adapted for JavaScript](https://github.com/ryanmcdermott/clean-code-javascript)
+  - [Developers Roadmap](https://github.com/kamranahmedse/developer-roadmap)
+  - [Commit Lint](https://github.com/conventional-changelog/commitlint)
+  - [FrontEnd Checklist](https://github.com/thedaviddias/Front-End-Checklist)
+  - [Awesome JSON Datasets](https://github.com/jdorfman/awesome-json-datasets)
+  - [ZSH Suggestions](https://github.com/zsh-users/zsh-autosuggestions)
+  - [Chrome Extensions](https://github.com/learn-anything/chrome-extensions)
 - **Design**
   - [Material Design](https://material.io/)
   - [Google Design](https://design.google/)
 - **FE Development**
   - [Learn React for free](https://scrimba.com/playlist/p7P5Hd)
   - [Egghead] (<https://egghead.io/)> - Free and paid tutorials for JavaScript tools and frameworks
+  - [Free Code Camp](https://github.com/freeCodeCamp/freeCodeCamp) - Open source codebase and tutorials
 - **General Resources**
   - [Scotch.io Tutorials](https://scotch.io/tutorials)
 - **Youtube Playlists**

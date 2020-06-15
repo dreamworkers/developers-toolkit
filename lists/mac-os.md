@@ -9,12 +9,11 @@ _(Go back to [Index](https://github.com/dreamworkers/developers-toolkit#a-develo
     - [File and Code](#file-and-code)
   - [Productivity](#productivity)
     - [Documenting](#documenting)
-    - [Special Productivity](#special-productivity)
     - [Desktop](#desktop)
+    - [Productivity for projects/products](#productivity-for-projectsproducts)
     - [Photos](#photos)
     - [Fun stuffs](#fun-stuffs)
     - [System](#system)
-    - [Alternate productivity](#alternate-productivity)
   - [Lists elsewhere](#lists-elsewhere)
 
 ## Development
@@ -25,7 +24,7 @@ _(Go back to [Index](https://github.com/dreamworkers/developers-toolkit#a-develo
 - **Source control**: [SourceTree](https://www.sourcetreeapp.com/)
 - **Termimal**
   - [iTerm2](https://www.iterm2.com/)
-  - Alternate to BASH: [OhMyZsh](https://ohmyz.sh/)
+  - [OhMyZsh](https://ohmyz.sh/)
   - Alternate to iTerm: [Kitty](https://sw.kovidgoyal.net/kitty/)
 
 ### Data
@@ -48,19 +47,6 @@ _(Go back to [Index](https://github.com/dreamworkers/developers-toolkit#a-develo
 - Notes
 - [SimpleNote](https://simplenote.com/)
 - [Slite](https://slite.com/)
-
-### Special Productivity
-
-- **Map/flow**
-  - Flowcharts: [Draw.io](https://app.diagrams.net/)
-  - Mind mapping: [SimpleMind Lite](https://simplemind.eu/)
-  - Mind mapping alternative: [XMind](https://www.xmind.net/)
-  - Wireframe/Visual design: [Sparkle](https://sparkleapp.com/)
-  - Interactive UI: [Principle](https://principleformac.com/)
-  - Wireframe ($): [BalsamIQ](https://balsamiq.com/)
-- Collaboration: [Trello](https://trello.com/)
-- Font Manager: [RightFont](https://rightfontapp.com/)
-- Colors: [Sip](http://sipapp.io/)
   
 ### Desktop
 
@@ -74,15 +60,28 @@ _(Go back to [Index](https://github.com/dreamworkers/developers-toolkit#a-develo
 - Desktop Widgets: [Ubersicht](http://tracesof.net/uebersicht/)
   - [Widget library](http://tracesof.net/uebersicht-widgets/)
 
+### Productivity for projects/products
+
+- **Map/flow**
+  - Flowcharts: [Draw.io](https://app.diagrams.net/)
+  - Mind mapping: [SimpleMind Lite](https://simplemind.eu/)
+    - Alternate: [XMind](https://www.xmind.net/)
+  - Wireframe/Visual design: [Sparkle](https://sparkleapp.com/)
+    - Alternte ($): [BalsamIQ](https://balsamiq.com/)
+  - Interactive UI: [Principle](https://principleformac.com/)
+- Collaboration: [Trello](https://trello.com/)
+- Font Manager: [RightFont](https://rightfontapp.com/)
+- Colors: [Sip](http://sipapp.io/)
+
 ### Photos
 
-- [Image Optimizer](https://imageoptim.com/mac)
 - **Photo Editors**
   - [Intensify](https://skylum.com/intensify)
   - [Photoscape X](http://x.photoscape.org/)
 - **Screenshots**
   - Screenshot from Mac
   - [CloudApp](https://www.getcloudapp.com/)
+- [Image Optimizer](https://imageoptim.com/mac)
 
 ### Fun stuffs
 
@@ -93,15 +92,7 @@ _(Go back to [Index](https://github.com/dreamworkers/developers-toolkit#a-develo
 
 ### System
 
-- **Clean apps**:
-  - [Appcleaner](https://freemacsoft.net/appcleaner/)
-  - [Uninstaller - OSCleaner ($)](https://apps.apple.com/us/app/uninstaller-os-cleaner/id1018633858)
-
-### Alternate productivity
-
-- [Notion](https://www.notion.so/)
-- [Momento](https://momentoapp.com/)
-- [DayOne](https://dayoneapp.com/)
+- Clean apps: [Appcleaner](https://freemacsoft.net/appcleaner/)
 
 ## Lists elsewhere
 

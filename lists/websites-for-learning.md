@@ -22,6 +22,11 @@ _(Go back to [Index](https://github.com/dreamworkers/developers-toolkit#a-develo
   - [CSS Triggers](https://csstriggers.com/)
   - [Browser Hacks](http://browserhacks.com/) - An extensive list of browser specific CSS and JavaScript hacks
   - [CSS Specificity](https://cssspecificity.com/)
+- **JavaScript**
+  - [ESLint Rules](https://eslint.org/docs/rules/)
+  - [Clean code adapted for JavaScript](https://github.com/ryanmcdermott/clean-code-javascript)
+  - [Async Javascript Cheatsheet](https://github.com/frontarm/async-javascript-cheatsheet)
+  - [153 JavaScript Questions (With Their Answers Explained)](https://github.com/lydiahallie/javascript-questions#readme)
 - **Server and server side**
   - [Caching Explained](https://cachingexplained.com/)
   - [Stupid **.htaccess** Tricks](https://perishablepress.com/stupid-htaccess-tricks/)
@@ -32,14 +37,10 @@ _(Go back to [Index](https://github.com/dreamworkers/developers-toolkit#a-develo
   - [Shell](http://cheat.sh/)
   - [Scripting utilities](https://natelandau.com/bash-scripting-utilities/)
   - [Colors and formatting](https://misc.flogisoft.com/bash/tip_colors_and_formatting)
-- **Clean code**
-  - [ESLint Rules](https://eslint.org/docs/rules/)
-  - [Clean code adapted for JavaScript](https://github.com/ryanmcdermott/clean-code-javascript)
 - **Cheatsheets**
   - [Awesome Cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets#readme)
   - [Dev Hints](https://devhints.io/)
   - [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-  - [Async Javascript Cheatsheet](https://github.com/frontarm/async-javascript-cheatsheet)
   - [Data Science Cheatsheets](https://github.com/FavioVazquez/ds-cheatsheets#readme)
   - [Machine Learning Glossary](https://ml-cheatsheet.readthedocs.io/en/latest/)
   - [Machine Learning Cheatsheet](https://github.com/soulmachine/machine-learning-cheat-sheet)
